@@ -1,0 +1,10 @@
+1. Decide which business to order from.
+1a. Open up an app to find local businesses. 
+1b. Figure out price or distance.
+1c. Go to destination
+2. Decide which type of pizza to order.
+2a. Walk up to register and order.
+2b. Order items. Pizza, Wings and Drink.
+3. Wait for items.
+3a. Grab items and walk out.
+4. Go home and enjoy food.
