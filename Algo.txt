@@ -4,7 +4,14 @@
 1c. Go to destination
 2. Decide which type of pizza to order.
 2a. Walk up to register and order.
+<<<<<<< HEAD
 2b. Order items. Pizza, Wings and Drink.
 3. Wait for items.
 3a. Grab items and walk out.
 4. Go home and enjoy food.
+=======
+2b. Pay for pizza.
+3. Wait for pizza.
+3a. Grab pizza and walk out.
+4. Enjoy pizza
+>>>>>>> main
